@@ -1,6 +1,17 @@
 .marg-top {
     margin-top: 10px;
 }
+.marg-top-20 {
+    margin-top: 20px;
+}
+.marg-top-40 {
+    margin-top: 40px;
+}
 .text-small {
     font-size: 14px;
+}
+#radius-50 {
+    max-width: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
 }
